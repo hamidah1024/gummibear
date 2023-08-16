@@ -3,15 +3,15 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_1", frames: [[0,0,1346,1046]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_2", frames: [[0,0,1346,1045]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_3", frames: [[0,0,1347,1044]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_4", frames: [[1003,1025,990,728],[0,0,1346,1023],[0,1025,1001,726]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_5", frames: [[0,734,958,734],[977,0,961,738],[0,1470,1226,516],[0,0,975,732]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6", frames: [[0,976,1259,433],[0,541,1290,433],[1195,1411,713,634],[0,0,1160,539],[1292,0,713,634],[0,1411,1193,414]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7", frames: [[862,1638,860,395],[0,0,860,485],[862,834,860,400],[0,834,860,455],[0,487,1198,345],[862,0,860,485],[862,1236,860,400],[0,1291,860,455]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8", frames: [[862,397,936,329],[0,0,860,395],[0,1068,951,315],[953,1068,850,323],[514,1393,912,296],[862,0,860,395],[862,728,904,338],[0,1393,512,530],[0,397,860,395],[514,1691,904,295],[1428,1393,474,503]]},
-		{name:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9", frames: [[464,321,513,373],[0,0,405,522],[1344,996,528,186],[1344,626,346,368],[464,696,517,368],[983,321,305,542],[1436,1184,526,183],[698,1233,346,378],[0,524,462,455],[1046,1569,528,186],[0,1472,364,359],[0,981,354,489],[1436,1369,526,183],[1290,281,383,343],[356,1066,340,386],[1046,1233,388,334],[1039,0,589,279],[983,865,359,366],[1630,0,350,270],[407,0,630,319],[698,1066,93,103],[356,981,96,53]]}
+		{name:"index.html_atlas_1", frames: [[0,0,1346,1046]]},
+		{name:"index.html_atlas_2", frames: [[0,0,1346,1045]]},
+		{name:"index.html_atlas_3", frames: [[0,0,1347,1044]]},
+		{name:"index.html_atlas_4", frames: [[1003,1025,990,728],[0,0,1346,1023],[0,1025,1001,726]]},
+		{name:"index.html_atlas_5", frames: [[0,734,958,734],[977,0,961,738],[0,1470,1226,516],[0,0,975,732]]},
+		{name:"index.html_atlas_6", frames: [[0,976,1259,433],[0,541,1290,433],[1195,1411,713,634],[0,0,1160,539],[1292,0,713,634],[0,1411,1193,414]]},
+		{name:"index.html_atlas_7", frames: [[862,1638,860,395],[0,0,860,485],[862,834,860,400],[0,834,860,455],[0,487,1198,345],[862,0,860,485],[862,1236,860,400],[0,1291,860,455]]},
+		{name:"index.html_atlas_8", frames: [[862,397,936,329],[0,0,860,395],[0,1068,951,315],[953,1068,850,323],[514,1393,912,296],[862,0,860,395],[862,728,904,338],[0,1393,512,530],[0,397,860,395],[514,1691,904,295],[1428,1393,474,503]]},
+		{name:"index.html_atlas_9", frames: [[464,321,513,373],[0,0,405,522],[1344,996,528,186],[1344,626,346,368],[464,696,517,368],[983,321,305,542],[1436,1184,526,183],[698,1233,346,378],[0,524,462,455],[1046,1569,528,186],[0,1472,364,359],[0,981,354,489],[1436,1369,526,183],[1290,281,383,343],[356,1066,340,386],[1046,1233,388,334],[1039,0,589,279],[983,865,359,366],[1630,0,350,270],[407,0,630,319],[698,1066,93,103],[356,981,96,53]]}
 ];
 
 
@@ -36,385 +36,385 @@ lib.ssMetadata = [
 
 
 (lib._1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_3 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_4 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_5 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_3"]);
+	this.initialize(ss["index.html_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_6 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6"]);
+	this.initialize(ss["index.html_atlas_6"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_7 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_5"]);
+	this.initialize(ss["index.html_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1_8 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._10 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_3 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_4 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_5 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_1"]);
+	this.initialize(ss["index.html_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_6 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6"]);
+	this.initialize(ss["index.html_atlas_6"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_7 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_4"]);
+	this.initialize(ss["index.html_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_8 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6"]);
+	this.initialize(ss["index.html_atlas_6"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._2_9 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_3 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_4 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_4"]);
+	this.initialize(ss["index.html_atlas_4"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_5 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6"]);
+	this.initialize(ss["index.html_atlas_6"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_6 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_5"]);
+	this.initialize(ss["index.html_atlas_5"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_7 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6"]);
+	this.initialize(ss["index.html_atlas_6"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3_8 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4_2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4_3 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4_4 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_2"]);
+	this.initialize(ss["index.html_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4_5 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6"]);
+	this.initialize(ss["index.html_atlas_6"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4_6 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_4"]);
+	this.initialize(ss["index.html_atlas_4"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._4_7 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._5 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._5_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._5_2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._5_3 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_5"]);
+	this.initialize(ss["index.html_atlas_5"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._5_4 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_5"]);
+	this.initialize(ss["index.html_atlas_5"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._5_5 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._6 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._6_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._6_2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"]);
+	this.initialize(ss["index.html_atlas_8"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._6_3 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._6_4 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._7 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._7_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._7_2 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._8 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._8_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._9 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"]);
+	this.initialize(ss["index.html_atlas_7"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._9_1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
@@ -427,7 +427,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,5100,3300);
 
 
 (lib.cursor1 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
@@ -440,7 +440,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,5100,3300);
 
 
 (lib.Layer5 = function() {
-	this.initialize(ss["PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"]);
+	this.initialize(ss["index.html_atlas_9"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
@@ -1348,7 +1348,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,412.5,141.9);
 
 
 // stage content:
-(lib.PuiSanHamidahHA_P5_GummiBearInteractiveMap = function(mode,startPosition,loop,reversed) {
+(lib.indexhtml = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -1733,20 +1733,20 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Bgcolor.jpg?1692214974195", id:"Bgcolor"},
-		{src:"images/Layer1.jpg?1692214974195", id:"Layer1"},
-		{src:"images/Layer7.png?1692214974195", id:"Layer7"},
-		{src:"images/Stones.png?1692214974195", id:"Stones"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_1.png?1692214974152", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_1"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_2.png?1692214974152", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_2"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_3.png?1692214974152", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_3"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_4.png?1692214974152", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_4"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_5.png?1692214974152", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_5"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6.png?1692214974152", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_6"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7.png?1692214974152", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_7"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8.png?1692214974153", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_8"},
-		{src:"images/PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9.png?1692214974153", id:"PuiSanHamidahHA_P5_GummiBear Interactive Map_atlas_9"},
-		{src:"sounds/SONG2.mp3?1692214974195", id:"SONG2"}
+		{src:"images/Bgcolor.jpg?1692216087678", id:"Bgcolor"},
+		{src:"images/Layer1.jpg?1692216087678", id:"Layer1"},
+		{src:"images/Layer7.png?1692216087678", id:"Layer7"},
+		{src:"images/Stones.png?1692216087678", id:"Stones"},
+		{src:"images/index.html_atlas_1.png?1692216087637", id:"index.html_atlas_1"},
+		{src:"images/index.html_atlas_2.png?1692216087637", id:"index.html_atlas_2"},
+		{src:"images/index.html_atlas_3.png?1692216087637", id:"index.html_atlas_3"},
+		{src:"images/index.html_atlas_4.png?1692216087637", id:"index.html_atlas_4"},
+		{src:"images/index.html_atlas_5.png?1692216087637", id:"index.html_atlas_5"},
+		{src:"images/index.html_atlas_6.png?1692216087637", id:"index.html_atlas_6"},
+		{src:"images/index.html_atlas_7.png?1692216087637", id:"index.html_atlas_7"},
+		{src:"images/index.html_atlas_8.png?1692216087637", id:"index.html_atlas_8"},
+		{src:"images/index.html_atlas_9.png?1692216087637", id:"index.html_atlas_9"},
+		{src:"sounds/SONG2.mp3?1692216087678", id:"SONG2"}
 	],
 	preloads: []
 };
